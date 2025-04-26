@@ -3363,4 +3363,7 @@ figcaption {
     #w-node-_8646cb9d-da00-1053-3263-bef4338b947c-3aeca0f9 {
         order: -9999
     }
+    .w-webflow-badge {
+  display: none !important;
+}
 }
