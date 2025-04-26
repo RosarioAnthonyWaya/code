@@ -2527,7 +2527,7 @@ figcaption {
     flex-flow: column;
     justify-content: flex-end;
     align-items: flex-start;
-    height: 50rem;
+    height: 100rem;
     padding-left: 0;
     display: flex
 }
